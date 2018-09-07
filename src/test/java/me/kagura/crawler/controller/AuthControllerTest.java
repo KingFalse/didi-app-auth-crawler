@@ -26,7 +26,7 @@ public class AuthControllerTest {
     MockMvc mvc;
 
     String traceId = UUID.randomUUID().toString();
-    String account = "18701666061";
+    String account = "18799999999";
 
     @Test
     public void TestAuth() throws Exception {
