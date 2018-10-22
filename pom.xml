@@ -14,7 +14,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.4.RELEASE</version>
+        <version>2.0.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>me.kagura</groupId>
             <artifactId>jjsoup-spring-boot-starter</artifactId>
-            <version>0.1.4</version>
+            <version>0.1.8</version>
         </dependency>
         <!--可选，用于在@RestController中支持@JSONBodyField-->
         <dependency>
